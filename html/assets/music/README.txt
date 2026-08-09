@@ -1,9 +1,12 @@
--- Put your .mp3 or .ogg tracks in this folder.
--- Then update Config.music.tracks in html/js/config.js
---
--- Example:
---   track1.mp3
---   track2.mp3
---   track3.mp3
---
--- Use royalty-free music only.
+Add your own royalty-free tracks here (.mp3 or .ogg).
+
+Then list them in html/js/config.js under Config.music.tracks.
+
+Example:
+  {
+    title: 'My Track',
+    artist: 'Artist Name',
+    file: 'assets/music/my-track.mp3'
+  }
+
+Do not upload copyrighted music.

@@ -99,9 +99,9 @@ All settings are in **`html/js/config.js`**.
 
 ### Music
 
-1. Drop `.mp3` / `.ogg` files into `html/assets/music/`
-2. Add them to `Config.music.tracks`
-3. Use **royalty-free** music only
+1. Drop your own **royalty-free** `.mp3` / `.ogg` files into `html/assets/music/`
+2. Add them to `Config.music.tracks` in `html/js/config.js`
+3. Do **not** use copyrighted music
 
 ### Discord online count
 

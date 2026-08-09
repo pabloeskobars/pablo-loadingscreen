@@ -62,16 +62,12 @@ const Config = {
     autoplay: true,
     defaultVolume: 0.35, // 0–1
     tracks: [
-      {
-        title: 'So Far From Home',
-        artist: 'Siamese Youth',
-        file: 'assets/music/so-far-from-home.mp3'
-      },
-      {
-        title: 'Over Glowing Bridges',
-        artist: 'Synth Flood',
-        file: 'assets/music/over-glowing-bridges.mp3'
-      }
+      // Add your own royalty-free tracks, e.g.:
+      // {
+      //   title: 'My Track',
+      //   artist: 'Artist Name',
+      //   file: 'assets/music/my-track.mp3'
+      // }
     ]
   },
 
