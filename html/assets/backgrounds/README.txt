@@ -1,0 +1,2 @@
+-- Place your background image here as bg.jpg
+-- Or use a video as bg.mp4 and set backgroundType = 'video' in config.js

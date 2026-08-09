@@ -1,0 +1,1 @@
+-- Auto-generated placeholder. Replace with real avatar images (png/jpg) and update config.js
